@@ -1,5 +1,5 @@
 +++
-categories = ["Hugo"]
+categories = [""]
 date = "2023-10-12"
 description = "Starting a blog."
 featuredalt = ""
@@ -15,14 +15,4 @@ This is a simple blog that I am going to use to track my progress throughout a c
 ## Education: 
 I am currently taking classes toward a Bachelors in Computer Scince. I have spend the past decade or so taking classes intermittently at a local community college, and eventually at online colleges. I am determined to finish my Bachelors by early next year (2024), and then move onto a Masters program. 
 
-### Classes I need to complete for my Bachelors: - Using general terms for the classes. 
-
-- Databases 1
-- Databases 2
-- Databases 3
-- Discreet Math 1
-- Data Structures and Algs 1
-- Intro to AI
-- Computer Architecture
-- {More to be added later once I determine the class structure.}
 
