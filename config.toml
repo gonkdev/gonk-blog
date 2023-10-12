@@ -1,17 +1,17 @@
 baseurl      = "https://gonkdev.github.io"
-title        = "My Blog"
+title        = "GonkDev"
 languageCode = "en-us"
 theme        = "hello-friend"
 paginate     = 10
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+  dateform        = "Jan 1, 20023"
+  dateformShort   = "Jan 1"
+  dateformNum     = "2023-01-01"
+  dateformNumTime = "2023-01-01 15:04"
 
   # Subtitle for home
-  homeSubtitle = "A simple and beautiful blog"
+  homeSubtitle = "A simple blog to track my progress as I move through a tech career."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
